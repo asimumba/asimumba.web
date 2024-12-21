@@ -20,9 +20,9 @@ comments: false
 
 Hi, I'm **Aaron Simumba**,
 
-I work in the financial services sector as a **Business Intelligence & Analytics Lead**. Previously, I worked for [**mPharma**](https://www.mpharma.com/) as a **Data Management Associate**.
+I am a results oriented Data Scientist with expertise in the telecommunications and financial services industries. Previously I held the following positions, as **Business Intelligence & Analytics Lead**, at [**mPharma**](https://www.mpharma.com/) as a **Data Management Associate**.
 
-In another life, I was an Accounting and Finance major. Graduated from the [**University of Namibia**](https://www.unam.edu.na/) with a BA degree in Accounting(Honours). Equally tutored Business Administration students in the art of business and accounting at the [**University of Zambia**](https://www.unza.zm/).
+In another life, I was an Accounting and Finance major. Graduated from the University of Texas with a Post Graduate Program in Data Science and Business Analytics, for my undergraduate, received from the [**University of Namibia**](https://www.unam.edu.na/) a Bachelors degree in Accounting (Honours). Equally tutored Business Administration students in the art of business and accounting at the [**University of Zambia**](https://www.unza.zm/).
 
 I am lost in the Data Science web... hoping to find my way out of the maze soon. I find data and the process of data analysis to glean insight from the raw data, overly exciting and fascinating alike.
 
@@ -33,23 +33,3 @@ I can be found on [**Github**](https://github.com/asimumba/) poking around inter
 For this website:
 
 > This will be a place where I share my daily musings in the world of R, analytics and mostly, everything remotely interesting. I have a knack for learning interesting data analytics technologies.
-
-**Let's have fun!** 😁
-
-
-
-**Recommended blogs**
-
-[[*Yihui Xie*]{.underline}](https://yihui.name/en/)
-
-[[*David Robinson - Variance explained*]{.underline}](http://varianceexplained.org/)
-
-[[*Simply Statistics*]{.underline}](https://simplystatistics.org/)
-
-[[*R Bloggers*]{.underline}](https://www.r-bloggers.com/)
-
-[[*RStudio blog*]{.underline}](https://blog.rstudio.com/)
-
-[[*RStudio community: Everything RStudio*]{.underline}](https://community.rstudio.com/)
-
-[[*R Weekly*]{.underline}](https://rweekly.org/)
