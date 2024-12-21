@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "R . Data Science . Business Intelligence"
+  title: "R . Python . Data Science . Business Intelligence"
   site-url: https://asimumba.rbind.io/
   repo-url: https://github.com/rbind/asimumba.web/
   google-analytics: "G-BJDLEWB0XZ"
@@ -30,7 +30,7 @@ website:
       - icon: stack-overflow
         href: https://stackoverflow.com/users/8137815/aaron-simumba/
   page-footer:
-    left: "© 2023 Aaron Simumba. Powered by [Quarto](https://quarto.org/) and [Netflify](https://www.netlify.com/). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+    left: "© 2024 Aaron Simumba. Powered by [Quarto](https://quarto.org/) and [Netflify](https://www.netlify.com/). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
     right:
       - icon: github
         href: https://github.com/asimumba/
@@ -49,7 +49,7 @@ monofont: "Fira Mono"
 fontcolor: "#adb5bd"
 linkcolor: "#2aa198"
 code-block-bg: true
-fontsize: 1.3em
+fontsize: 1.2em
 execute:
   freeze: auto
     
