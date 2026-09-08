@@ -90,8 +90,10 @@ A sample of some of the certifications and awards I have achieved.
 ### Academic Career
 
 2014 - University of Namibia - **Bachelor of Accounting (Honours)**
+
 2024 - University of Texas - **Post Graduate Program in Data Science and Business Analytics**
-2026 - One League Business Management Fellowship
+
+2026 - One League **Business Management Fellowship**
 
 
 ### Talks
